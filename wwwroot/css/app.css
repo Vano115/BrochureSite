@@ -10,8 +10,14 @@ html, body {
     margin: 0;
 }
 
+:root {
+  --title-font-size: 3.2rem;
+  --subtitle-font-size: 2rem;
+  --description-font-size: 1.4rem;
+}
+
 a, .btn-link {
-    color: #006bb7;
+    color:gainsboro;
 }
 
 .btn-primary {
@@ -28,6 +34,12 @@ a, .btn-link {
     padding-top: 1.1rem;
 }
 
+h1{
+    font-size: var(--title-font-size);
+} 
+h2{
+    font-size: var(--subtitle-font-size);
+}
 h1:focus {
     outline: none;
 }

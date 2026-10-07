@@ -2,12 +2,16 @@
 @inject NavigationManager NavigationManager
 
 <div class="top-row px-4">
-    <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-        <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true">Главная</span>
-    </NavLink>
-    <NavLink class="nav-link" href="about" Match="NavLinkMatch.All">
-        <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true">Обо мне</span>
-    </NavLink>            
+    <div>
+        <NavLink href="" Match="NavLinkMatch.All">
+            <img class="profile-logo" src="Pictures/my-photo.jpg" />
+        </NavLink>
+    </div>
+    <div>
+        <NavLink class="nav-link" href="KnowledgeBase" Match="NavLinkMatch.All">
+            <span aria-hidden="true">База знаний</span>
+        </NavLink> 
+    </div>
 </div>
 <main>
     <div class="content">
@@ -15,7 +19,12 @@
     </div>
 </main>
 <footer>
-    <span>Footer</span>
+    <span id="footer-text">2026 
+        <br />Контакты: <a href="@Telegram"><img class="contact-logo" src="Pictures/Telegram_logo.webp"/></a>
+        <a href="mailto:@Email">
+            <img class="contact-logo" src="Pictures/gmail.png"/>
+        </a>
+        </span>
 </footer>
 
 <div id="blazor-error-ui" data-nosnippet>
@@ -26,4 +35,6 @@
 
 
 @code{
+    private string Telegram = "https://t.me/JnCoffey";
+    private string Email = "my.master.use@gmail.com";
 }
