@@ -17,11 +17,28 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border-bottom: 1px solid;
-  border-color: #62fb89;
   padding-top: 5px;
   padding-bottom: 50px;
 }
+
+.flex-data-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    min-width: 90%;
+
+}
+#stack-block{
+    background-color: #0f1f47;
+}
+
+.stack-view{
+    background-color: #0b1220;
+    padding-left:5px;
+    padding-right: 5px;
+    border-radius: 10%;
+}
+
 #last-block{
     padding-bottom: 5%;
     margin-bottom: 0%;

@@ -36,7 +36,7 @@ D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\Site.pdb
 D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\Site.genruntimeconfig.cache
 D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\ref\Site.dll
 D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\Site.sourcelink.json
-D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\compressed\15ij2hynrd-{0}-yjdsi5xgsv-yjdsi5xgsv.gz
-D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\compressed\pxfnfodd3u-{0}-n5d2vvl82x-n5d2vvl82x.gz
-D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\compressed\6oapqmau0d-{0}-5xzftwozn8-5xzftwozn8.gz
-D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\compressed\8ccs3fhtc5-{0}-5xzftwozn8-5xzftwozn8.gz
+D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\compressed\pxfnfodd3u-{0}-8tbngxgk83-8tbngxgk83.gz
+D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\compressed\15ij2hynrd-{0}-3o37gmomny-3o37gmomny.gz
+D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\compressed\6oapqmau0d-{0}-2fruwi51r6-2fruwi51r6.gz
+D:\Files\Projects\MyBrochureSite\Site\obj\Debug\net10.0\compressed\8ccs3fhtc5-{0}-2fruwi51r6-2fruwi51r6.gz
